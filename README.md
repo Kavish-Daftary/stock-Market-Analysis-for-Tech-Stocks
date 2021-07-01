@@ -1,1 +1,1 @@
-# tock-Market-Analysis-for-Tech-Stocks
+# stock-Market-Analysis-for-Tech-Stocks
